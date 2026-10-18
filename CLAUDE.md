@@ -1,4 +1,4 @@
-# seft-quiz
+# self-quiz
 
 Self-study quiz site (Multiple Choice + Q&A tabs, see `.claude/skills/rs-gen-quiz/`).
 

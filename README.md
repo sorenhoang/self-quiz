@@ -1,1 +1,1 @@
-# seft-quiz
+# self-quiz
